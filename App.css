@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+.delete-btn{
+    background-color: tomato;
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
